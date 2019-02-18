@@ -1,0 +1,9 @@
+{
+  "name": "crypto_wallet",
+  "private": true,
+  "dependencies": {},
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeová Sampaio",
+  "license": "MIT"
+}
