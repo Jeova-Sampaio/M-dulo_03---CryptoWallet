@@ -40,10 +40,7 @@ gem 'bootsnap', '>=1.1.0', require: false
 gem 'pry-rails'
 gem 'tty-spinner'
 gem 'rails-i18n', '~> 5.1'
-gem 'rails-assets-jquery', source: 'https://rails-assets.org'
-gem 'rails-assets-notifyjs', source: 'https://rails-assets.org'
-
-
+gem 'webpacker'
 
 gem 'rb-readline', '~> 0.5.5'
 

@@ -1,9 +1,14 @@
 {
   "name": "crypto_wallet",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "@rails/webpacker": "3.5"
+  },
   "version": "1.0.0",
   "main": "index.js",
   "author": "Jeová Sampaio",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
 }
